@@ -25,7 +25,7 @@ As an elder Millennial, I grew up oberserving the evolution of the internet (rem
 * 🌍  I'm based in Chicago
 * 🖥️  See my portfolio at [Portfolio v1](http://csimes.github.io/portfolio/) Please note: this is my first portfolio, but I'm working on my second one to be deployed        on my domain!
 * ✉️  You can contact me at [cherron@developdbycherron.com](mailto:cherron@developdbycherron.com)
-* 🚀  I'm currently working on [Digital Office.](http://cs-timetrackerclient.herokuapp.com/), my new portfolio, and solidifying current knowledge.
+* 🚀  I'm currently working on an old project - [Digital Office](http://cs-timetrackerclient.herokuapp.com/), my new portfolio, and solidifying current knowledge.
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on fun projects that have a practical use.
 * ⚡  I would love to connect with anyone on a similar journey or those that can provide mentoring. Please don't hesitate to reach out!
