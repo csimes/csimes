@@ -20,7 +20,7 @@ Web Developer
 
 Dial-up survivor. Eleven Fifty alumni. Project whisperer. That's me. A slightly caffeinated web dev with a passion for pixels and problem-solving, forged in the crucible of curiosity. I'm passionate about building beautiful, functional websites that drive results. I combine frontend mastery with sharp project management skills and a relentless drive to learn. My eagerness to contribute shines through in everything I do, from meticulous communication to creative problem-solving. Javascript isn't my only language; I also speak fluently in collaboration and innovation.
 
-*   🌍  I'm based in Chicago..ish
+*   🌍  I'm based in Chicago...ish
 *   🖥️  See my portfolio at [developd | programmed to perfection.](http://www.developdbycherron.com)
 *   ✉️  You can contact me at [cherron@developdbycherron.com](mailto:cherron@developdbycherron.com)
 *   🚀  I'm currently working on [Digital Office](http://https://time-tracking-client.onrender.com)
