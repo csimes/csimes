@@ -23,7 +23,7 @@ Dial-up survivor. Eleven Fifty alumni. Project whisperer. That's me. A slightly 
 *   🌍  I'm based in Chicago...ish
 *   🖥️  See my portfolio at [developd | programmed to perfection.](http://www.developdbycherron.com)
 *   ✉️  You can contact me at [cherron@developdbycherron.com](mailto:cherron@developdbycherron.com)
-*   🚀  I'm currently working on [Digital Office](http://https://time-tracking-client.onrender.com)
+*   🚀  I'm currently working on [WorkWise 1.0](http://https://time-tracking-client.onrender.com)
 *   🧠  I'm learning about Cloudflare Workers
 *   🤝  I'm open to collaborating on coffee chats, co-working, collaborating on fun projects with a practical use
   
